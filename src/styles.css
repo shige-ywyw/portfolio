@@ -1,0 +1,32 @@
+.photo {
+  width: 500px;
+}
+.shige {
+  display: flex;
+  max-width: 15%;
+  border: 0;
+}
+
+/* h2 {
+  font-size: 10vw;
+  color: #009688;
+  margin: 30px;
+} */
+
+.z-text {
+  transform: rotateX(30deg) rotateY(-30deg);
+  transition: transform 1s;
+}
+
+[data-z]:hover .z-text {
+  transform: rotateX(-30deg) rotateY(30deg);
+}
+
+.z-layer:not(:first-child) {
+  color: #007166;
+}
+
+h2 {
+  font-size: 14px !important;
+  line-height: 20px !important;
+}
