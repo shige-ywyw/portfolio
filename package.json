@@ -7,15 +7,16 @@
   "dependencies": {
     "@material-ui/core": "4.12.3",
     "bootstrap": "5.1.0",
-    "photo": "0.2.13",
     "react": "17.0.2",
     "react-bootstrap": "1.6.1",
-    "react-cosha": "0.0.1-alpha.6",
-    "react-dom": "17.0.2",
-    "react-native": "0.65.1",
-    "react-scripts": "4.0.0",
+    "react-cosha": "^0.0.1-alpha.6",
+    "react-dom": "^17.0.2",
+    "react-script": "^2.0.5",
+    "react-scripts": "^5.0.1",
     "react-tabs": "3.2.2",
-    "react-ztext": "1.0.3"
+    "react-ztext": "^1.0.3",
+    "reactdom": "^2.0.0",
+    "runscript": "^1.6.0"
   },
   "devDependencies": {
     "@babel/runtime": "7.13.8",

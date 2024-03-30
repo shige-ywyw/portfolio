@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3ec816e8.css",
+    "main.js": "/static/js/main.dd946f37.js",
+    "static/media/shige.png": "/static/media/shige.ae10e25d702d40de21b0.png",
+    "static/media/street_view.png": "/static/media/street_view.49daf3b57acb3418f6f0.png",
+    "static/media/quiz.png": "/static/media/quiz.1a82d22fa9c80e1b47f3.png",
+    "static/media/news.png": "/static/media/news.de4e72f10ad07f91640b.png",
+    "index.html": "/index.html",
+    "main.3ec816e8.css.map": "/static/css/main.3ec816e8.css.map",
+    "main.dd946f37.js.map": "/static/js/main.dd946f37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ec816e8.css",
+    "static/js/main.dd946f37.js"
+  ]
+}

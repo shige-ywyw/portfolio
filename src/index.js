@@ -8,7 +8,7 @@ import news from "./photo/news.png";
 import street from "./photo/street_view.png";
 import shige from "./photo/shige.png";
 import "./styles.css";
-
+import ReactDOM from 'react-dom';
 function App() {
   const [selectedIndex, setSelectedIndex] = useState(0);
 
